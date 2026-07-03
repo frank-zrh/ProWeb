@@ -1,0 +1,316 @@
+2026-07-03 00:23:33.466 +00:00 [INF] Maintenance purge removed 1 expired session(s) and 6 expired cache entry(ies).
+2026-07-03 00:23:33.700 +00:00 [WRN] Overriding address(es) 'https://localhost:63061, http://localhost:63062'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2026-07-03 00:23:33.759 +00:00 [INF] Now listening on: https://[::]:8443
+2026-07-03 00:23:33.989 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-03 00:23:34.095 +00:00 [INF] Hosting environment: Development
+2026-07-03 00:23:34.096 +00:00 [INF] Content root path: C:\Projects\multi-clone-agent\artifacts\proweb-2\project\code\src\ProWeb.Server
+2026-07-03 00:24:15.127 +00:00 [INF] Proxied GET https://www.wenxuecity.com/ → 200 via http in 323ms (424385B) [dc8f3c594b1541a982ce7cd5781b672c]
+2026-07-03 00:24:15.388 +00:00 [INF] Proxied GET https://a.pub.network/wenxuecity-com/cls.css → 200 via http in 77ms (7436B) [af14023d9c0646d0a8588d4669ac013a]
+2026-07-03 00:24:15.462 +00:00 [INF] Proxied GET https://securepubads.g.doubleclick.net/tag/js/gpt.js?network-code=***REDACTED*** → 200 via http in 59ms (114225B) [8a5a548f9884451ca08de37d1866e368]
+2026-07-03 00:24:15.499 +00:00 [INF] Proxied GET https://www.wenxuecity.com/css/nav_top.css?v4.3 → 200 via http in 14ms (2032B) [e867cbfa7527427ea8c6b492609c944d]
+2026-07-03 00:24:15.523 +00:00 [INF] Proxied GET https://www.wenxuecity.com/css/homepage.css?v2.7 → 200 via http in 8ms (15409B) [2249dd259b764033b02a1dbbce6b0a3f]
+2026-07-03 00:24:15.685 +00:00 [INF] Proxied GET https://adserver.wenxuecity.com/202102/wxc_160_90_white.svg → 200 via http in 110ms (30537B) [afc51da6f709412292dd4222589a0004]
+2026-07-03 00:24:15.723 +00:00 [INF] Proxied GET https://adserver.wenxuecity.com/202507/000.JPG → 200 via http in 9ms (31853B) [4d4b0aa1c6764d3cb2df9c6d2cc53a27]
+2026-07-03 00:24:15.769 +00:00 [INF] Proxied GET https://adserver.wenxuecity.com/202606/160x90.png → 200 via http in 25ms (48959B) [2dc3902d58b549daa7c2712a3eb5ca63]
+2026-07-03 00:24:15.798 +00:00 [INF] Proxied GET https://adserver.wenxuecity.com/202606/deal.png → 200 via http in 8ms (38873B) [b380309a1db2447d9c51a247c17d07d0]
+2026-07-03 00:24:15.822 +00:00 [INF] Proxied GET https://adserver.wenxuecity.com/202605/dealam.jpg → 200 via http in 7ms (4025B) [78d7fc0a6b9742d78b46c81a97c7a133]
+2026-07-03 00:24:15.857 +00:00 [INF] Proxied GET https://a.pub.network/wenxuecity-com/pubfig.min.js → 200 via http in 18ms (76597B) [f604b2809d104f85bef1cace8b619777]
+2026-07-03 00:24:15.997 +00:00 [INF] Proxied GET https://www.googletagmanager.com/gtag/js?id=***REDACTED*** → 200 via http in 110ms (486791B) [80bbbf5464f64c15b57ae01b4c7b930c]
+2026-07-03 00:24:16.070 +00:00 [INF] Proxied GET https://adserver.wenxuecity.com/202606/ChinaGate_355x40.jpg → 200 via http in 12ms (24641B) [006a32025aff43019500b0a90a4482b1]
+2026-07-03 00:24:16.095 +00:00 [INF] Proxied GET https://www.wenxuecity.com/images/btn_searchbox.gif → 200 via http in 8ms (401B) [747e21c53e1447e7ba18d4330d94c502]
+2026-07-03 00:24:16.217 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/avatar/52/03/325203_120_120.png?rand=***REDACTED*** → 200 via http in 109ms (25974B) [03024c0567d7467d9389ca396ef166ee]
+2026-07-03 00:24:16.242 +00:00 [INF] Proxied GET https://www.wenxuecity.com/radio/img/gold.png → 200 via http in 7ms (5403B) [3f9a663020e844e1ae0174d705a02a3f]
+2026-07-03 00:24:16.268 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/avatar/79/30/517930_120_120.png?rand=***REDACTED*** → 200 via http in 13ms (25079B) [7b44f1a91d1247678073954619ec6136]
+2026-07-03 00:24:16.307 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/avatar/88/29/1038829_120_120.jpg?rand=***REDACTED*** → 200 via http in 20ms (4126B) [9d4f6a0787ba4163b53ffa905ba8671b]
+2026-07-03 00:24:16.339 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/avatar/49/59/1074959_120_120.jpg?rand=***REDACTED*** → 200 via http in 14ms (5243B) [cd762afc771e4a6597cdbfc9728a6ddd]
+2026-07-03 00:24:16.368 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/avatar/11/94/991194_120_120.jpg?rand=***REDACTED*** → 200 via http in 12ms (3084B) [e8d588918b1946d784daf1b12eb8aa72]
+2026-07-03 00:24:16.398 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/avatar/23/68/432368_120_120.jpg?rand=***REDACTED*** → 200 via http in 14ms (3786B) [5af8646065fb4cf28e4fcfe9312bb94f]
+2026-07-03 00:24:16.458 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/avatar/45/13/1134513_120_120.png?rand=***REDACTED*** → 200 via http in 27ms (27474B) [589971a51baa4951ae7f8761237d8f79]
+2026-07-03 00:24:16.491 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/avatar/55/92/1035592_120_120.jpg?rand=***REDACTED*** → 200 via http in 13ms (5642B) [0584c4152d8f4ddcbb1f735fa367b8db]
+2026-07-03 00:24:16.524 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/avatar/31/91/1123191_120_120.png?rand=***REDACTED*** → 200 via http in 13ms (30970B) [951585b0d2d7464f837c4d93ab094718]
+2026-07-03 00:24:16.556 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/avatar/96/48/1039648_120_120.jpg?rand=***REDACTED*** → 200 via http in 13ms (2148B) [59715013bda04143a3e84f458adac07a]
+2026-07-03 00:24:16.593 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/avatar/03/45/1110345_120_120.jpg?rand=***REDACTED*** → 200 via http in 14ms (4835B) [e89f506629164812879fc78c20dce3d5]
+2026-07-03 00:24:16.628 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/avatar/80/64/1108064_120_120.jpg?rand=***REDACTED*** → 200 via http in 17ms (5463B) [8e9c6bcfc54d406f88771576b24de1a9]
+2026-07-03 00:24:16.701 +00:00 [INF] Proxied GET https://www.wenxuecity.com/radio/img/df_avatar1.png → 200 via http in 17ms (21975B) [014b063fd2ee479091dcb4187ba68286]
+2026-07-03 00:24:16.802 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/album/11/64/1164_120_120.png?rand=***REDACTED*** → 200 via http in 14ms (8910B) [35bc9b1c8b494b338292159710ea65c1]
+2026-07-03 00:24:16.878 +00:00 [INF] Proxied GET https://www.wenxuecity.com/radio/img/v_small.png → 200 via http in 9ms (3155B) [a898a465be23470db84d91d3ecf5f976]
+2026-07-03 00:24:16.915 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/album/04/91/491_120_120.jpg?rand=***REDACTED*** → 200 via http in 13ms (3813B) [6faf87764d0240a293d21da142daa69c]
+2026-07-03 00:24:16.943 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/album/02/14/214_120_120.png?rand=***REDACTED*** → 200 via http in 13ms (30085B) [20e1df4fba414007a3f19fbc00783d25]
+2026-07-03 00:24:16.974 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/album/01/83/183_120_120.jpg?rand=***REDACTED*** → 200 via http in 13ms (5396B) [76e42fe1ce4a482984b52b8364e1ff4b]
+2026-07-03 00:24:17.002 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/album/01/41/141_120_120.jpg?rand=***REDACTED*** → 200 via http in 14ms (4724B) [0f23c13dfd254a3f90bb3095282f0d6f]
+2026-07-03 00:24:17.030 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/album/12/33/1233_120_120.jpg?rand=***REDACTED*** → 200 via http in 14ms (2856B) [7e9dd59869ce48f8bb06e4d77e78925b]
+2026-07-03 00:24:17.175 +00:00 [INF] Proxied GET https://html-load.cc/script/d3d3Lndlbnh1ZWNpdHkuY29t.js → 200 via http in 88ms (473367B) [03e23d0d60a546f5a756c7513183b153]
+2026-07-03 00:24:17.234 +00:00 [INF] Proxied GET https://www.wenxuecity.com/images/bbgra1.png → 200 via http in 8ms (54946B) [1d222fd7af4941328e9558505b348ec2]
+2026-07-03 00:24:17.256 +00:00 [INF] Proxied GET https://www.wenxuecity.com/images/bbg1.webp → 200 via http in 7ms (24122B) [18d47503cc7e484a9c615ab9ad1eea95]
+2026-07-03 00:24:17.275 +00:00 [INF] Proxied GET https://www.wenxuecity.com/images/bg_menubar.gif → 200 via http in 6ms (73B) [02ea0be9648c45ab8ea0eb1b58ecd924]
+2026-07-03 00:24:17.294 +00:00 [INF] Proxied GET https://www.wenxuecity.com/images/bg_mainmenu_selected.gif → 200 via http in 6ms (927B) [5bba22daa2664146ba0babc3024356db]
+2026-07-03 00:24:17.322 +00:00 [INF] Proxied GET https://www.wenxuecity.com/images/micw.svg → 200 via http in 13ms (1696B) [a3a5e32080ea4143b61d8a17909a7445]
+2026-07-03 00:24:17.442 +00:00 [INF] Proxied GET https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202606250101/pubads_impl.js → 200 via http in 16ms (623876B) [458d3579f2654572b963d3fc5a1d4db1]
+2026-07-03 00:24:17.517 +00:00 [INF] Proxied GET https://securepubads.g.doubleclick.net/pagead/ppub_config?ippd=***REDACTED***&pppnc=***REDACTED*** → 200 via http in 22ms (1990B) [ed88d2a772cf419999a901fb14756434]
+2026-07-03 00:24:18.223 +00:00 [INF] Proxied GET https://srvb1.com/o.js?uid=***REDACTED*** → 200 via http in 116ms (2793B) [bd6146710f934b28ae9382f987cf0cfd]
+2026-07-03 00:24:18.280 +00:00 [INF] Proxied GET https://www.wenxuecity.com/js/jquery.js → 200 via http in 45ms (91556B) [856d2a435a404ec7b994e7fa5ad53e6d]
+2026-07-03 00:24:18.318 +00:00 [INF] Proxied GET https://www.wenxuecity.com/js/jquery.cookie.js → 200 via http in 8ms (1450B) [97f08f527f4243538271ede6db6b3430]
+2026-07-03 00:24:18.447 +00:00 [INF] Proxied HEAD https://a.pub.network/core/imgs/1.png → 200 via http in 16ms (0B) [3d2b4ef36dfd472b86d8260636ddaa50]
+2026-07-03 00:26:30.505 +00:00 [WRN] Overriding address(es) 'https://localhost:63061, http://localhost:63062'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2026-07-03 00:26:30.856 +00:00 [INF] Now listening on: https://[::]:8443
+2026-07-03 00:26:31.174 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-03 00:26:31.462 +00:00 [INF] Hosting environment: Development
+2026-07-03 00:26:31.470 +00:00 [INF] Content root path: C:\Projects\multi-clone-agent\artifacts\proweb-2\project\code\src\ProWeb.Server
+2026-07-03 00:26:42.422 +00:00 [INF] Proxied GET https://www.wenxuecity.com/ → 200 via http in 291ms (424389B) [3eddfae2ddb443608774a3d17af91f80]
+2026-07-03 00:26:42.705 +00:00 [INF] Proxied GET https://a.pub.network/wenxuecity-com/cls.css → 200 via http in 63ms (7436B) [10972f2481fc4c4bb4cbe573861472e0]
+2026-07-03 00:26:42.804 +00:00 [INF] Proxied GET https://securepubads.g.doubleclick.net/tag/js/gpt.js?network-code=***REDACTED*** → 200 via http in 81ms (114226B) [a866061a516943c7a37703cdc8d8d999]
+2026-07-03 00:26:42.836 +00:00 [INF] Proxied GET https://www.wenxuecity.com/css/nav_top.css?v4.3 → 200 via http in 13ms (2032B) [4f9fb425e82b4e9c9e69b893f5d309f5]
+2026-07-03 00:26:42.856 +00:00 [INF] Proxied GET https://www.wenxuecity.com/css/homepage.css?v2.7 → 200 via http in 8ms (15409B) [4c1308824b3d442792da895ea40c97e8]
+2026-07-03 00:26:42.898 +00:00 [INF] Proxied GET https://adserver.wenxuecity.com/202102/wxc_160_90_white.svg → 200 via http in 29ms (30537B) [de7961c4b45c4532a7468f785476296e]
+2026-07-03 00:26:42.921 +00:00 [INF] Proxied GET https://adserver.wenxuecity.com/202507/000.JPG → 200 via http in 9ms (31853B) [a697e1ed2d3c43efa9473772916a9975]
+2026-07-03 00:26:42.982 +00:00 [INF] Proxied GET https://adserver.wenxuecity.com/202606/160x90.png → 200 via http in 22ms (48959B) [b72aa6ec634144c8aa4db6eccfa1ba37]
+2026-07-03 00:26:43.060 +00:00 [INF] Proxied GET https://adserver.wenxuecity.com/202606/deal.png → 200 via http in 14ms (38873B) [cab880fe3d044a41bd0cf86562a01d84]
+2026-07-03 00:26:43.102 +00:00 [INF] Proxied GET https://adserver.wenxuecity.com/202605/dealam.jpg → 200 via http in 14ms (4025B) [7d32214d86ae459fb5eeac194fc232c7]
+2026-07-03 00:26:43.304 +00:00 [INF] Proxied GET https://srvb1.com/o.js?uid=***REDACTED*** → 200 via http in 181ms (2793B) [e1e41cf696994f36bc677c60856e813f]
+2026-07-03 00:26:43.353 +00:00 [INF] Proxied GET https://www.wenxuecity.com/js/jquery.js → 200 via http in 32ms (91556B) [360b3f14534449fcad65807b5323ebe5]
+2026-07-03 00:26:43.387 +00:00 [INF] Proxied GET https://www.wenxuecity.com/js/jquery.cookie.js → 200 via http in 6ms (1450B) [cb5957e5a6234c4ab572ae01abbd810b]
+2026-07-03 00:26:43.416 +00:00 [INF] Proxied GET https://www.wenxuecity.com/news/js/index_m.js → 200 via http in 13ms (571B) [d3976a5c497d4155a43113c4dc182b5b]
+2026-07-03 00:26:43.455 +00:00 [INF] Proxied GET https://a.pub.network/wenxuecity-com/pubfig.min.js → 200 via http in 20ms (76597B) [8a851efd02b74c4ba82c14379b3eaff3]
+2026-07-03 00:26:43.590 +00:00 [INF] Proxied GET https://www.googletagmanager.com/gtag/js?id=***REDACTED*** → 200 via http in 116ms (486845B) [c9421466af9d458592712e1358e90094]
+2026-07-03 00:26:43.639 +00:00 [INF] Proxied GET https://adserver.wenxuecity.com/202606/ChinaGate_355x40.jpg → 200 via http in 8ms (24641B) [5882bf02f05f4e8095da6fe0274cfad3]
+2026-07-03 00:26:43.662 +00:00 [INF] Proxied GET https://www.wenxuecity.com/images/btn_searchbox.gif → 200 via http in 6ms (401B) [cdec078aca7f4f89a51bd7c522da2600]
+2026-07-03 00:26:43.699 +00:00 [INF] Proxied GET https://securepubads.g.doubleclick.net/pagead/ppub_config?ippd=***REDACTED***&pppnc=***REDACTED*** → 200 via http in 23ms (1990B) [74311f559d4d4edca7c8096486bd01f5]
+2026-07-03 00:26:43.750 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/avatar/52/03/325203_120_120.png?rand=***REDACTED*** → 200 via http in 36ms (25974B) [256671da023641dbb906692fe0633165]
+2026-07-03 00:26:43.780 +00:00 [INF] Proxied GET https://www.wenxuecity.com/radio/img/gold.png → 200 via http in 6ms (5403B) [34cd56151e3b46bb92a980325a408a5a]
+2026-07-03 00:26:43.807 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/avatar/79/30/517930_120_120.png?rand=***REDACTED*** → 200 via http in 11ms (25079B) [68af7f2b143f4e32a4ac0857f16aa502]
+2026-07-03 00:26:43.834 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/avatar/88/29/1038829_120_120.jpg?rand=***REDACTED*** → 200 via http in 12ms (4126B) [2b8ff1bb181d419ba176c78efe25c8f6]
+2026-07-03 00:26:43.862 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/avatar/49/59/1074959_120_120.jpg?rand=***REDACTED*** → 200 via http in 14ms (5243B) [e57612ac23b944b289aea1a970ca9679]
+2026-07-03 00:26:43.889 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/avatar/11/94/991194_120_120.jpg?rand=***REDACTED*** → 200 via http in 12ms (3084B) [39c3ee3cdb1d4bfc95c7d6cd90b6a72a]
+2026-07-03 00:26:43.913 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/avatar/23/68/432368_120_120.jpg?rand=***REDACTED*** → 200 via http in 12ms (3786B) [bb625930becc46549aa490704a455e69]
+2026-07-03 00:26:43.939 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/avatar/45/13/1134513_120_120.png?rand=***REDACTED*** → 200 via http in 12ms (27474B) [c9787f4bb55c4f7e92dfffa45194eba6]
+2026-07-03 00:26:43.968 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/avatar/55/92/1035592_120_120.jpg?rand=***REDACTED*** → 200 via http in 14ms (5642B) [d0fbfb7943f740d492c8d0b4bf358bec]
+2026-07-03 00:26:43.998 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/avatar/31/91/1123191_120_120.png?rand=***REDACTED*** → 200 via http in 14ms (30970B) [a465d4f735af4ba69e48d679f57a6dea]
+2026-07-03 00:26:44.028 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/avatar/96/48/1039648_120_120.jpg?rand=***REDACTED*** → 200 via http in 12ms (2148B) [e6673093376945999a3475ba0ee2270b]
+2026-07-03 00:26:44.054 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/avatar/03/45/1110345_120_120.jpg?rand=***REDACTED*** → 200 via http in 12ms (4835B) [3d511a1edb23450d95f6df42e0219279]
+2026-07-03 00:26:44.091 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/avatar/80/64/1108064_120_120.jpg?rand=***REDACTED*** → 200 via http in 16ms (5463B) [b53f8a1b86b6441ca99908877f0928ea]
+2026-07-03 00:26:44.119 +00:00 [INF] Proxied GET https://www.wenxuecity.com/radio/img/df_avatar1.png → 200 via http in 6ms (21975B) [60623a8ee6d3459bbef0d6cb29ad4e1b]
+2026-07-03 00:26:44.148 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/album/11/64/1164_120_120.png?rand=***REDACTED*** → 200 via http in 12ms (8910B) [7ebfc55130ad42c78e0d0fc45f3f3ac2]
+2026-07-03 00:26:44.166 +00:00 [INF] Proxied GET https://www.wenxuecity.com/radio/img/v_small.png → 200 via http in 6ms (3155B) [be5a8764726d406093d485a5d81e6a90]
+2026-07-03 00:26:44.191 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/album/04/91/491_120_120.jpg?rand=***REDACTED*** → 200 via http in 12ms (3813B) [340a260a04294433a19e7c031296f6ea]
+2026-07-03 00:26:44.216 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/album/02/14/214_120_120.png?rand=***REDACTED*** → 200 via http in 12ms (30085B) [97436ff7928d474a9d768e9af2c89be0]
+2026-07-03 00:26:44.247 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/album/01/83/183_120_120.jpg?rand=***REDACTED*** → 200 via http in 11ms (5396B) [b10c4d5e50d74b168e4632661e81fbfa]
+2026-07-03 00:26:44.272 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/album/01/41/141_120_120.jpg?rand=***REDACTED*** → 200 via http in 11ms (4724B) [19f901de16764af8a0dd1c6d7fb439e7]
+2026-07-03 00:26:44.297 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/radio/album/12/33/1233_120_120.jpg?rand=***REDACTED*** → 200 via http in 13ms (2856B) [e8891836384d49d6b8f3de8ba66d3345]
+2026-07-03 00:26:44.395 +00:00 [INF] Proxied GET https://html-load.cc/script/d3d3Lndlbnh1ZWNpdHkuY29t.js → 200 via http in 71ms (473367B) [37aa5258161f48ff997856fd2a52a5a9]
+2026-07-03 00:26:44.521 +00:00 [INF] Proxied GET https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202606250101/pubads_impl.js → 200 via http in 19ms (623876B) [e445fce34d6549eeb4e9c95d300c6686]
+2026-07-03 00:26:44.583 +00:00 [INF] Proxied GET https://www.wenxuecity.com/images/bbgra1.png → 200 via http in 7ms (54946B) [b2e5bd2eaab94b8aa3bcbbab12155c53]
+2026-07-03 00:26:44.606 +00:00 [INF] Proxied GET https://www.wenxuecity.com/images/bbg1.webp → 200 via http in 8ms (24122B) [d1ad3a95f3c645219586195f350660f8]
+2026-07-03 00:26:44.626 +00:00 [INF] Proxied GET https://www.wenxuecity.com/images/bg_menubar.gif → 200 via http in 5ms (73B) [58c16f71f17b407d8d079ba0d6a986ae]
+2026-07-03 00:26:44.646 +00:00 [INF] Proxied GET https://www.wenxuecity.com/images/bg_mainmenu_selected.gif → 200 via http in 5ms (927B) [0c6f7a5d82a94cb7bbe4a4298686fb6e]
+2026-07-03 00:26:44.668 +00:00 [INF] Proxied GET https://www.wenxuecity.com/images/micw.svg → 200 via http in 7ms (1696B) [684e3c0f15c646cc86d12eaf80e49270]
+2026-07-03 00:26:44.975 +00:00 [INF] Proxied GET https://srvb1.com/px.gif?ch=***REDACTED***&rn=***REDACTED*** → 200 via http in 24ms (842B) [2dec5e1041d04fb1846cf30aeb41dd40]
+2026-07-03 00:26:45.018 +00:00 [INF] Proxied GET https://srvb1.com/px.gif?ch=***REDACTED***&rn=***REDACTED*** → 200 via http in 22ms (842B) [6fcf6482cbb84af382da01120720114d]
+2026-07-03 00:26:45.597 +00:00 [INF] Proxied GET https://api.wenxuecity.com/members/script/members.php?unic=***REDACTED*** → 200 via http in 160ms (2330B) [7cc4098359524c9fb49cfef45c42cd91]
+2026-07-03 00:26:45.649 +00:00 [INF] Proxied HEAD https://a.pub.network/core/imgs/1.png → 200 via http in 12ms (0B) [dffe93ca340144ab9b3a3a8d6cc55a21]
+2026-07-03 00:26:45.748 +00:00 [INF] Proxied GET https://d.pub.network/v2/sites/wenxuecity-com/configs?env=***REDACTED*** → 200 via http in 77ms (200918B) [69c92b38b08544c0ad127ad3faa790f6]
+2026-07-03 00:26:45.977 +00:00 [INF] Proxied GET https://www.wenxuecity.com/include/plugins/jquery.php?app=***REDACTED***&sess=***REDACTED***&func=***REDACTED***&ip=***REDACTED***&code=***REDACTED*** → 200 via http in 77ms (38B) [2ae0009dc4c04f8b89e2c7b1edcb3c7b]
+2026-07-03 00:26:46.023 +00:00 [INF] Proxied GET https://srvb1.com/?uid=***REDACTED***&oab=***REDACTED*** → 200 via http in 27ms (732B) [4e0f3c205e5b431f84a7b84676f170e4]
+2026-07-03 00:26:46.053 +00:00 [INF] Proxied GET https://a.pub.network/wenxuecity-com/fsdata.json → 200 via http in 13ms (177415B) [c7a1cece60b34c3e9553239e3b12bafa]
+2026-07-03 00:26:46.110 +00:00 [INF] Proxied POST https://analytics.google.com/g/collect?v=***REDACTED***&tid=***REDACTED***&gtm=***REDACTED***&_p=***REDACTED***&_gaz=***REDACTED***&gcd=***REDACTED***&npa=***REDACTED***&dma=***REDACTED***&_eu=***REDACTED***&are=***REDACTED***&cid=***REDACTED***&frm=***REDACTED***&pscdl=***REDACTED***&rcb=***REDACTED***&sr=***REDACTED***&uaa=***REDACTED***&uab=***REDACTED***&uafvl=***REDACTED***&uam=***REDACTED***&uamb=***REDACTED***&uap=***REDACTED***&uapv=***REDACTED***&uaw=***REDACTED***&ul=***REDACTED***&gaf=***REDACTED***&_s=***REDACTED***&tag_exp=***REDACTED***&sid=***REDACTED***&sct=***REDACTED***&seg=***REDACTED***&dl=***REDACTED***&dt=***REDACTED***&en=***REDACTED***&_fv=***REDACTED***&_nsi=***REDACTED***&_ss=***REDACTED***&_ee=***REDACTED***&tfd=***REDACTED*** → 204 via http in 34ms (0B) [bdfac784ebee486c82c13d69f207e068]
+2026-07-03 00:26:46.159 +00:00 [INF] Proxied POST https://stats.g.doubleclick.net/g/collect?v=***REDACTED***&tid=***REDACTED***&cid=***REDACTED***&gtm=***REDACTED***&rcb=***REDACTED***&aip=***REDACTED***&dma=***REDACTED***&gcd=***REDACTED***&npa=***REDACTED***&frm=***REDACTED***&tag_exp=***REDACTED*** → 204 via http in 32ms (0B) [dda1dc7a5dfc48f7badfc9bff743a233]
+2026-07-03 00:26:46.712 +00:00 [INF] Proxied POST https://www.google.com/g/collect?v=***REDACTED***&tid=***REDACTED***&gtm=***REDACTED***&_p=***REDACTED***&_gaz=***REDACTED***&gcd=***REDACTED***&npa=***REDACTED***&dma=***REDACTED***&_eu=***REDACTED***&are=***REDACTED***&cid=***REDACTED***&frm=***REDACTED***&pscdl=***REDACTED***&rcb=***REDACTED***&sr=***REDACTED***&uaa=***REDACTED***&uab=***REDACTED***&uafvl=***REDACTED***&uam=***REDACTED***&uamb=***REDACTED***&uap=***REDACTED***&uapv=***REDACTED***&uaw=***REDACTED***&ul=***REDACTED***&gaf=***REDACTED***&_s=***REDACTED***&tag_exp=***REDACTED***&sid=***REDACTED***&sct=***REDACTED***&seg=***REDACTED***&dl=***REDACTED***&dt=***REDACTED***&en=***REDACTED***&_fv=***REDACTED***&_nsi=***REDACTED***&_ss=***REDACTED***&_ee=***REDACTED***&tfd=***REDACTED*** → 204 via http in 52ms (0B) [692473c2eee844d2a35d329e8c031158]
+2026-07-03 00:26:46.779 +00:00 [INF] Proxied GET https://srvb1.com/?uid=***REDACTED***&oab=***REDACTED***&puburl=***REDACTED***&sessId=***REDACTED*** → 200 via http in 23ms (480B) [6a03f8403eb340b69012d4edbba829c6]
+2026-07-03 00:26:46.803 +00:00 [INF] Proxied GET https://securepubads.g.doubleclick.net/pagead/managed/dict/m202606180101/gpt → 200 via http in 7ms (64887B) [5348c8edfdd14d6db27d5c969c6f1cf4]
+2026-07-03 00:26:46.969 +00:00 [INF] Proxied GET https://static.srvb1.com/m.js → 200 via http in 138ms (8712B) [73100f999ccb4b0ca1dc4daa1c06456a]
+2026-07-03 00:26:47.026 +00:00 [INF] Proxied GET https://www.wenxuecity.com/images/wxcs.gif → 200 via http in 5ms (2272B) [c83a25ee786a47008633e739847e8691]
+2026-07-03 00:26:52.800 +00:00 [INF] Proxied GET https://www.wenxuecity.com/news/2026/07/02/126696276.html → 200 via http in 13ms (114510B) [19c1722f88a54c6ead0e66db6375a26b]
+2026-07-03 00:26:52.934 +00:00 [INF] Proxied GET https://platform.twitter.com/widgets.js → 200 via http in 70ms (93967B) [5c6197ff45d64337af63731b3e8d3e1d]
+2026-07-03 00:26:52.986 +00:00 [INF] Proxied GET https://a.pub.network/wenxuecity-com/cls.css → 200 via http in 30ms (7436B) [d0976855f57a4e0a8472d1a8bf390af7]
+2026-07-03 00:26:53.007 +00:00 [INF] Proxied GET https://www.wenxuecity.com/news/css/news_view.css?v=***REDACTED*** → 200 via http in 7ms (18353B) [e4c9f08324154c6997cd85b25e1732d8]
+2026-07-03 00:26:53.034 +00:00 [INF] Cache hit for ad260aee7b7242d29f1154724f9d273a (https://www.wenxuecity.com/css/nav_top.css?v4.3).
+2026-07-03 00:26:53.039 +00:00 [INF] Proxied GET https://www.wenxuecity.com/css/nav_top.css?v4.3 → 200 via cache in 1ms (2032B) [ad260aee7b7242d29f1154724f9d273a]
+2026-07-03 00:26:53.073 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/news/202607/02/ae4e20a61f09b1ea0da70742efd45056.webp → 200 via http in 12ms (38300B) [06f948024c9a4940bbfa2298c8b1f319]
+2026-07-03 00:26:53.108 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/news/202607/02/214c3412af5fd6d33bc1ca09d84830e2.webp → 200 via http in 13ms (47172B) [d2c708e24c114508935829d792d95b60]
+2026-07-03 00:26:53.181 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/news/202607/02/5fdaec6496218b481b33e9ab0a459c37.webp → 200 via http in 41ms (49992B) [068293f61446421a922fcc27c1100dfe]
+2026-07-03 00:26:53.246 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/news/202607/02/e96ab2ae757729e6f7b49e09456fe95e.webp → 200 via http in 11ms (34594B) [58f19adba3d248a78c54fe02df944351]
+2026-07-03 00:26:53.278 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/news/202607/02/1dd916e87ccdb390f7ef21982e07a726.webp → 200 via http in 14ms (48520B) [6144cf1ec7414094ba96f0c76c94ca31]
+2026-07-03 00:26:53.298 +00:00 [INF] Cache hit for da2b436dc77d477ea1c63cf52356b72b (https://srvb1.com/o.js?uid=3de5c6e969bcbef63f8b7a59).
+2026-07-03 00:26:53.301 +00:00 [INF] Proxied GET https://srvb1.com/o.js?uid=***REDACTED*** → 200 via cache in 0ms (2793B) [da2b436dc77d477ea1c63cf52356b72b]
+2026-07-03 00:26:53.326 +00:00 [INF] Proxied GET https://www.wenxuecity.com/js/bundle.js?v5.3 → 200 via http in 11ms (92896B) [6b95b20ad335446cb866d9e85d1d5c87]
+2026-07-03 00:26:53.380 +00:00 [INF] Proxied GET https://securepubads.g.doubleclick.net/tag/js/gpt.js?network-code=***REDACTED*** → 200 via http in 28ms (114676B) [10d1407cf94647db9766479c85a137dc]
+2026-07-03 00:26:53.406 +00:00 [INF] Cache hit for 8fabd066b90c484fafad0bd07a01c790 (https://a.pub.network/wenxuecity-com/pubfig.min.js).
+2026-07-03 00:26:53.427 +00:00 [INF] Proxied GET https://a.pub.network/wenxuecity-com/pubfig.min.js → 200 via cache in 1ms (76597B) [8fabd066b90c484fafad0bd07a01c790]
+2026-07-03 00:26:53.469 +00:00 [INF] Proxied GET https://adserver.wenxuecity.com/202512/1770925882861.png → 200 via http in 19ms (377993B) [cc07e768148f4da8a5f3f87c67677099]
+2026-07-03 00:26:53.502 +00:00 [INF] Proxied GET https://www.wenxuecity.com/images/postcomment.svg → 200 via http in 6ms (4560B) [e3502e852cfa49bba404edd35a105a20]
+2026-07-03 00:26:53.528 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscount/bdd8f013aac101fadc85c7d85d1b44e4.webp → 200 via http in 11ms (2926B) [a4f076ef9eea4dce836e020d5f722906]
+2026-07-03 00:26:53.551 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscount/2afe18f938a84c7477a390717ee626e6.webp → 200 via http in 10ms (1654B) [d5c49d03cdff4d4894f7dfdc89879a52]
+2026-07-03 00:26:53.577 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscount/24a516fab72590f8ddb0ced62f45f8e9.webp → 200 via http in 11ms (1888B) [cf252254027f43cabb97aece7d5c320c]
+2026-07-03 00:26:53.598 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscount/43de4a302c09f2e0925e16dd78f18b00.webp → 200 via http in 10ms (1086B) [94e4e5f220f142328fae63028574782e]
+2026-07-03 00:26:53.621 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscount/9b847bd481abb81335e5ffe00f776b4a.webp → 200 via http in 11ms (1788B) [f3b97b053be24fbe960582efaed97ae8]
+2026-07-03 00:26:53.656 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/09ec76306ebfa982510fa57836d1fb24.webp → 200 via http in 11ms (1770B) [b6776b86fc63456d8142ee4db950d37b]
+2026-07-03 00:26:53.679 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/e4f62c66f862a1f9170bcaf3632c2a92.webp → 200 via http in 10ms (1066B) [d733e452a9a74e6c8387f1ea1f70d09a]
+2026-07-03 00:26:53.706 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/21ba539922486457193f67c05f947991.webp → 200 via http in 13ms (1708B) [570f36a2fc814a3788a83447cab49ea2]
+2026-07-03 00:26:53.735 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/61465fa8d075439a9c4b10a7aee32200.webp → 200 via http in 12ms (1916B) [b463cb0158224aada529d34c69d0b66b]
+2026-07-03 00:26:53.765 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/3a087a2bfc17f594b7326cca5f6e3864.webp → 200 via http in 14ms (1478B) [81d08730bcc0470398f39effcbac7281]
+2026-07-03 00:26:53.789 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/eeec623a17ef0fb169da9b1aefe95fa5.webp → 200 via http in 11ms (3286B) [a13312f5a37d4654b05ad953a215df51]
+2026-07-03 00:26:53.814 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/f964fd3063edd79219894af3887dc1d1.webp → 200 via http in 11ms (1308B) [09b8e0b110d146319cde4349340bc018]
+2026-07-03 00:26:53.839 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/031a4ba8838a88444d5f8f2d5731915e.webp → 200 via http in 11ms (1398B) [934c9e41ee064585813cbdf22ac48225]
+2026-07-03 00:26:53.873 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/ab1949ebc17af7a1a37162e75ea61191.webp → 200 via http in 12ms (1330B) [4c129909fa95455d9b2d0cefc1ab1139]
+2026-07-03 00:26:53.901 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/7bc2869d7c14d9d0029b026ca2c16c12.webp → 200 via http in 11ms (1118B) [3e25df1bead347eb9fef57b123f94c2e]
+2026-07-03 00:26:53.935 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/9fd17123b820f1c726e042d05986f1b6.webp → 200 via http in 13ms (1740B) [16c63b23ff074deb9c5244db236a6139]
+2026-07-03 00:26:53.977 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/ea18cc4ae424c6f3304ee91819b8ee1a.webp → 200 via http in 12ms (1304B) [dae31780d1af4b23b55c65130ce81e23]
+2026-07-03 00:26:54.006 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/5e779b2fb5a572382692cf9b0b9e7b7e.webp → 200 via http in 12ms (1142B) [de13bb8f95b6461a927ec79981b7f8bc]
+2026-07-03 00:26:54.028 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/0990dce2d374d3dfec8200b546d906f7.webp → 200 via http in 11ms (1932B) [4e341c185db846009251115fcdd98fff]
+2026-07-03 00:26:54.060 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/96e30c69b3a03dfe296142b9e0e8e63e.webp → 200 via http in 12ms (1682B) [45b36136de8742448f19b19233ea4923]
+2026-07-03 00:26:54.106 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/878926229db4054d279b33a72be9348f.webp → 200 via http in 11ms (1340B) [d0707772202040c09dfbec2ee2eb4398]
+2026-07-03 00:26:54.119 +00:00 [INF] Cache hit for a9ee638568254b70bc5151b7dfcf86c4 (https://html-load.cc/script/d3d3Lndlbnh1ZWNpdHkuY29t.js).
+2026-07-03 00:26:54.121 +00:00 [INF] Proxied GET https://html-load.cc/script/d3d3Lndlbnh1ZWNpdHkuY29t.js → 200 via cache in 1ms (473367B) [a9ee638568254b70bc5151b7dfcf86c4]
+2026-07-03 00:26:54.181 +00:00 [INF] Proxied GET https://www.wenxuecity.com/images/btn_search.jpg → 200 via http in 8ms (1906B) [7cad7b0e2dc641f2bb2fad8aa4400837]
+2026-07-03 00:26:54.197 +00:00 [INF] Cache hit for 3d3f8a3c2e6e408f85ead39b8da0bc9d (https://www.wenxuecity.com/images/bbgra1.png).
+2026-07-03 00:26:54.199 +00:00 [INF] Proxied GET https://www.wenxuecity.com/images/bbgra1.png → 200 via cache in 0ms (54946B) [3d3f8a3c2e6e408f85ead39b8da0bc9d]
+2026-07-03 00:26:54.218 +00:00 [INF] Proxied GET https://www.wenxuecity.com/images/bbg2.webp → 200 via http in 7ms (13930B) [ee205b843879463fa3d495f02544bc24]
+2026-07-03 00:26:54.232 +00:00 [INF] Cache hit for e9694c1c2b224401bcf4a6ede5e92332 (https://www.wenxuecity.com/images/bg_menubar.gif).
+2026-07-03 00:26:54.235 +00:00 [INF] Proxied GET https://www.wenxuecity.com/images/bg_menubar.gif → 200 via cache in 0ms (73B) [e9694c1c2b224401bcf4a6ede5e92332]
+2026-07-03 00:26:54.244 +00:00 [INF] Cache hit for 44f113fbd0454d2eacecb2c234655b61 (https://www.wenxuecity.com/images/bg_mainmenu_selected.gif).
+2026-07-03 00:26:54.247 +00:00 [INF] Proxied GET https://www.wenxuecity.com/images/bg_mainmenu_selected.gif → 200 via cache in 0ms (927B) [44f113fbd0454d2eacecb2c234655b61]
+2026-07-03 00:26:54.259 +00:00 [INF] Cache hit for 7e3588eed37e4055a177956011649d9d (https://www.wenxuecity.com/images/micw.svg).
+2026-07-03 00:26:54.261 +00:00 [INF] Proxied GET https://www.wenxuecity.com/images/micw.svg → 200 via cache in 0ms (1696B) [7e3588eed37e4055a177956011649d9d]
+2026-07-03 00:26:54.295 +00:00 [INF] Proxied GET https://srvb1.com/px.gif?ch=***REDACTED***&rn=***REDACTED*** → 200 via http in 21ms (842B) [0150297ebf914bde9fe637c4527dbb6f]
+2026-07-03 00:26:54.326 +00:00 [INF] Proxied GET https://srvb1.com/px.gif?ch=***REDACTED***&rn=***REDACTED*** → 200 via http in 21ms (842B) [d3edf0ee92b14c93813f07612b4c523b]
+2026-07-03 00:26:54.414 +00:00 [INF] Proxied GET https://api.wenxuecity.com/members/script/members.php?unic=***REDACTED*** → 200 via http in 75ms (2330B) [9cb953e31e56484e98e0059a87de6b93]
+2026-07-03 00:26:54.435 +00:00 [INF] Proxied GET https://www.wenxuecity.com/news/js/recommendednews.js → 200 via http in 5ms (603B) [1485e1c37e0e4fe98a9a29cc3212c2db]
+2026-07-03 00:26:54.457 +00:00 [INF] Proxied GET https://www.wenxuecity.com/js/wxcFunc.js → 200 via http in 6ms (500B) [efcfb811988c4d29888dffcebf3d675a]
+2026-07-03 00:26:54.476 +00:00 [INF] Proxied GET https://www.wenxuecity.com/news/js/view.js?v=***REDACTED*** → 200 via http in 8ms (1226B) [9e3a92ede88b46bc935e140a42efa98f]
+2026-07-03 00:26:54.634 +00:00 [INF] Proxied GET https://count.wenxuecity.com/service/count/script/do.php?type=***REDACTED***&id=***REDACTED***&n=***REDACTED***&out=***REDACTED*** → 200 via http in 138ms (89B) [d12ffc01f873453c90d9c17d361e2d20]
+2026-07-03 00:26:54.707 +00:00 [INF] Proxied GET https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202606290101/pubads_impl.js?cb=***REDACTED*** → 200 via http in 10ms (627520B) [cb353e5a264945cf994802e722168317]
+2026-07-03 00:26:54.783 +00:00 [INF] Proxied GET https://securepubads.g.doubleclick.net/pagead/ppub_config?ippd=***REDACTED***&pppnc=***REDACTED*** → 200 via http in 23ms (1990B) [c32d4b9b18644789b82e5f22903c3ce4]
+2026-07-03 00:26:54.838 +00:00 [INF] Proxied HEAD https://a.pub.network/core/imgs/1.png → 200 via http in 8ms (0B) [68463ef87026481b91f50602f6ad5bb4]
+2026-07-03 00:26:54.915 +00:00 [INF] Proxied GET https://d.pub.network/v2/sites/wenxuecity-com/configs?env=***REDACTED*** → 200 via http in 33ms (200918B) [82953f9fc3044948aee45b80944696f1]
+2026-07-03 00:26:54.944 +00:00 [INF] Cache hit for fa0654f2ef694deb9edfc37432cd9d23 (https://securepubads.g.doubleclick.net/pagead/managed/dict/m202606180101/gpt).
+2026-07-03 00:26:54.949 +00:00 [INF] Proxied GET https://securepubads.g.doubleclick.net/pagead/managed/dict/m202606180101/gpt → 200 via cache in 0ms (64887B) [fa0654f2ef694deb9edfc37432cd9d23]
+2026-07-03 00:26:55.038 +00:00 [INF] Proxied POST https://www.wenxuecity.com/news/script/recommendednews.php?rec_arg_postid=***REDACTED*** → 200 via http in 72ms (11B) [99b6a9e363c94c49ab71b0a2a06c8a1c]
+2026-07-03 00:26:55.073 +00:00 [INF] Proxied GET https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=***REDACTED*** → 200 via http in 22ms (327306B) [f564bf43fe564cb5835266e003888760]
+2026-07-03 00:26:55.124 +00:00 [INF] Cache hit for 880010431a244f108c008bb5cbb41d98 (https://a.pub.network/wenxuecity-com/fsdata.json).
+2026-07-03 00:26:55.129 +00:00 [INF] Proxied GET https://a.pub.network/wenxuecity-com/fsdata.json → 200 via cache in 1ms (177415B) [880010431a244f108c008bb5cbb41d98]
+2026-07-03 00:26:55.404 +00:00 [INF] Proxied GET https://syndication.twitter.com/settings?session_id=***REDACTED*** → 200 via http in 65ms (869B) [20501eea083e4beda78e2645619b6a76]
+2026-07-03 00:26:55.449 +00:00 [INF] Proxied GET https://www.wenxuecity.com/images/wxc-logo.gif → 200 via http in 8ms (4921B) [48b177bb2231456b9c9ad4e99da50cdd]
+2026-07-03 00:26:55.484 +00:00 [INF] Proxied GET https://srvb1.com/?uid=***REDACTED***&oab=***REDACTED*** → 200 via http in 21ms (732B) [b5990c8746d54058afdb11325cd44822]
+2026-07-03 00:26:55.525 +00:00 [INF] Proxied GET https://platform.twitter.com/js/button.2276a045429f6681b56da5eb1dcfa53c.js → 200 via http in 24ms (7884B) [27654ca2098a4a2b807010f172ea7c15]
+2026-07-03 00:26:55.567 +00:00 [INF] Proxied GET https://srvb1.com/?uid=***REDACTED***&oab=***REDACTED***&puburl=***REDACTED***&sessId=***REDACTED*** → 200 via http in 21ms (480B) [01bf78a53610431ba6298b54f7bbb953]
+2026-07-03 00:26:55.645 +00:00 [INF] Proxied GET https://syndication.twitter.com/i/jot/embeds?l=***REDACTED***&session_id=***REDACTED*** → 200 via http in 40ms (43B) [0d1170bf53f0416d85cad95729576123]
+2026-07-03 00:26:55.690 +00:00 [INF] Cache hit for 36eb40068ad042139198a5a956ec7b50 (https://static.srvb1.com/m.js).
+2026-07-03 00:26:55.692 +00:00 [INF] Proxied GET https://static.srvb1.com/m.js → 200 via cache in 0ms (8712B) [36eb40068ad042139198a5a956ec7b50]
+2026-07-03 00:26:55.714 +00:00 [INF] Proxied GET https://platform.twitter.com/widgets/tweet_button.1227a5674072e080ffb1ba14ac0c1079.en.html → 200 via http in 10ms (34534B) [8ac32c8625044d57856e78fd69422618]
+2026-07-03 00:27:02.733 +00:00 [INF] Proxied GET https://www.wenxuecity.com/news/2026/07/01/126695805.html → 200 via http in 37ms (108724B) [fedc423168b244db8141f21fc09ddd44]
+2026-07-03 00:27:02.847 +00:00 [INF] Proxied GET https://pagead2.googlesyndication.com/pagead/gen_204?id=***REDACTED***&cls=***REDACTED***&mls=***REDACTED***&nls=***REDACTED***&cas=***REDACTED***&nas=***REDACTED***&was=***REDACTED***&wls=***REDACTED***&tls=***REDACTED***&lcp=***REDACTED***&lcps=***REDACTED***&fid=***REDACTED***&cbt=***REDACTED***&mbt=***REDACTED***&nlt=***REDACTED***&nif=***REDACTED***&ifi=***REDACTED***&eid=***REDACTED***&top=***REDACTED***&pvsid=***REDACTED***&gpt=***REDACTED***&inp=***REDACTED*** → 204 via http in 48ms (0B) [594f5d047c98427a9aad0cbb286dc097]
+2026-07-03 00:27:02.877 +00:00 [INF] Cache hit for 85c755d45d0c450ea3d45c50699aefa1 (https://platform.twitter.com/widgets.js).
+2026-07-03 00:27:02.882 +00:00 [INF] Proxied GET https://platform.twitter.com/widgets.js → 200 via cache in 0ms (93967B) [85c755d45d0c450ea3d45c50699aefa1]
+2026-07-03 00:27:02.904 +00:00 [INF] Cache hit for e1c198e777fe409bad41e6895e5120cb (https://a.pub.network/wenxuecity-com/cls.css).
+2026-07-03 00:27:02.923 +00:00 [INF] Proxied GET https://a.pub.network/wenxuecity-com/cls.css → 200 via cache in 0ms (7436B) [e1c198e777fe409bad41e6895e5120cb]
+2026-07-03 00:27:02.944 +00:00 [INF] Cache hit for 5e35dd2108f3478493e3d1aecb59492c (https://www.wenxuecity.com/news/css/news_view.css?v=0926_1).
+2026-07-03 00:27:02.949 +00:00 [INF] Proxied GET https://www.wenxuecity.com/news/css/news_view.css?v=***REDACTED*** → 200 via cache in 4ms (18353B) [5e35dd2108f3478493e3d1aecb59492c]
+2026-07-03 00:27:03.031 +00:00 [INF] Cache hit for 010ebc6853e14bc6a6d9ff19a2cbddf0 (https://www.wenxuecity.com/css/nav_top.css?v4.3).
+2026-07-03 00:27:03.045 +00:00 [INF] Proxied GET https://www.wenxuecity.com/css/nav_top.css?v4.3 → 200 via cache in 0ms (2032B) [010ebc6853e14bc6a6d9ff19a2cbddf0]
+2026-07-03 00:27:03.072 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/news/202607/02/0fe32ff8233ffb3ec0918b55cade1790.webp → 200 via http in 16ms (84200B) [3cf595bdd5cd43bd83b2bd3e01e36355]
+2026-07-03 00:27:03.102 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/news/202607/02/9b4faa38df6a71ece78deab42911b91e.webp → 200 via http in 15ms (162454B) [2c288850299c4d6e8c93bdc7ec16f5e6]
+2026-07-03 00:27:03.271 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/news/202607/02/7e69251c17ca251c373d6d8b85a0735e.webp → 200 via http in 20ms (59362B) [2aece552e6ce494383d5170a4fceef0b]
+2026-07-03 00:27:03.364 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/news/202607/02/0dd290583f1938db2cbdf5863de3badf.webp → 200 via http in 16ms (83074B) [cd82408216c6462686cbd497925c858b]
+2026-07-03 00:27:03.392 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/news/202607/02/c94c21c82ad82d09b84b5ede08d1973e.webp → 200 via http in 12ms (71208B) [c38d3199955140da99364f7a827bdc1b]
+2026-07-03 00:27:03.405 +00:00 [INF] Cache hit for e1bb751686c0478d8a38b08cb6d16b56 (https://srvb1.com/o.js?uid=3de5c6e969bcbef63f8b7a59).
+2026-07-03 00:27:03.407 +00:00 [INF] Proxied GET https://srvb1.com/o.js?uid=***REDACTED*** → 200 via cache in 0ms (2793B) [e1bb751686c0478d8a38b08cb6d16b56]
+2026-07-03 00:27:03.418 +00:00 [INF] Cache hit for 3575a4e8748a460fa1a9199cd9faaeb4 (https://www.wenxuecity.com/js/bundle.js?v5.3).
+2026-07-03 00:27:03.420 +00:00 [INF] Proxied GET https://www.wenxuecity.com/js/bundle.js?v5.3 → 200 via cache in 0ms (92896B) [3575a4e8748a460fa1a9199cd9faaeb4]
+2026-07-03 00:27:03.458 +00:00 [INF] Proxied GET https://securepubads.g.doubleclick.net/tag/js/gpt.js?network-code=***REDACTED*** → 200 via http in 23ms (114225B) [b5e881e98c1f40a4aee354dd23e1ea0b]
+2026-07-03 00:27:03.476 +00:00 [INF] Cache hit for a96cfdb67b3a4d13908967aa25c134e3 (https://a.pub.network/wenxuecity-com/pubfig.min.js).
+2026-07-03 00:27:03.478 +00:00 [INF] Proxied GET https://a.pub.network/wenxuecity-com/pubfig.min.js → 200 via cache in 0ms (76597B) [a96cfdb67b3a4d13908967aa25c134e3]
+2026-07-03 00:27:03.511 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/news/202607/02/cd6962f8edcf61ac636b0690310d8438.webp → 200 via http in 14ms (82894B) [445c42095a634cc3998fdbcd6d594e88]
+2026-07-03 00:27:03.548 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/news/202607/02/960233bb41652bb42eac5bce1e409029.webp → 200 via http in 15ms (81628B) [23e3191c996f41df9d02f089cf82b0c9]
+2026-07-03 00:27:03.576 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/news/202607/02/9b79d003bf210a9debf905d85359ea92.webp → 200 via http in 12ms (103620B) [45b7508d7c714405a09c6b41fc0cb65c]
+2026-07-03 00:27:03.605 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/news/202607/02/3bf221684dc2c3cc005c3f5509b705f1.webp → 200 via http in 12ms (12972B) [0ac053772abc4facbff080ea2978af68]
+2026-07-03 00:27:03.629 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/news/202607/02/86f4c298a4dcc1915ccf82945b8363fc.webp → 200 via http in 11ms (24916B) [6ee6c92356ff4c91be3622c6a93cc199]
+2026-07-03 00:27:03.644 +00:00 [INF] Cache hit for 60126744f0c5401e813e0fc1bbe8af2f (https://adserver.wenxuecity.com/202512/1770925882861.png).
+2026-07-03 00:27:03.647 +00:00 [INF] Proxied GET https://adserver.wenxuecity.com/202512/1770925882861.png → 200 via cache in 1ms (377993B) [60126744f0c5401e813e0fc1bbe8af2f]
+2026-07-03 00:27:03.673 +00:00 [INF] Cache hit for 267adaf7a0f843e79e242f721cf407e6 (https://www.wenxuecity.com/images/postcomment.svg).
+2026-07-03 00:27:03.676 +00:00 [INF] Proxied GET https://www.wenxuecity.com/images/postcomment.svg → 200 via cache in 0ms (4560B) [267adaf7a0f843e79e242f721cf407e6]
+2026-07-03 00:27:03.685 +00:00 [INF] Cache hit for 793d68ca782c482fbe3a169415de7a8c (https://www.wenxuecity.com/data/newscount/bdd8f013aac101fadc85c7d85d1b44e4.webp).
+2026-07-03 00:27:03.688 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscount/bdd8f013aac101fadc85c7d85d1b44e4.webp → 200 via cache in 0ms (2926B) [793d68ca782c482fbe3a169415de7a8c]
+2026-07-03 00:27:03.700 +00:00 [INF] Cache hit for d1caf081d51a4963bf01511f59ac557f (https://www.wenxuecity.com/data/newscount/2afe18f938a84c7477a390717ee626e6.webp).
+2026-07-03 00:27:03.703 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscount/2afe18f938a84c7477a390717ee626e6.webp → 200 via cache in 0ms (1654B) [d1caf081d51a4963bf01511f59ac557f]
+2026-07-03 00:27:03.711 +00:00 [INF] Cache hit for 38a06f9c92754687875f444845250fe9 (https://www.wenxuecity.com/data/newscount/24a516fab72590f8ddb0ced62f45f8e9.webp).
+2026-07-03 00:27:03.714 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscount/24a516fab72590f8ddb0ced62f45f8e9.webp → 200 via cache in 0ms (1888B) [38a06f9c92754687875f444845250fe9]
+2026-07-03 00:27:03.724 +00:00 [INF] Cache hit for f020ea2ade5746019153797b1c9710ce (https://www.wenxuecity.com/data/newscount/43de4a302c09f2e0925e16dd78f18b00.webp).
+2026-07-03 00:27:03.726 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscount/43de4a302c09f2e0925e16dd78f18b00.webp → 200 via cache in 0ms (1086B) [f020ea2ade5746019153797b1c9710ce]
+2026-07-03 00:27:03.737 +00:00 [INF] Cache hit for 60e789581e7e4cf18a581d462d209b43 (https://www.wenxuecity.com/data/newscount/9b847bd481abb81335e5ffe00f776b4a.webp).
+2026-07-03 00:27:03.741 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscount/9b847bd481abb81335e5ffe00f776b4a.webp → 200 via cache in 0ms (1788B) [60e789581e7e4cf18a581d462d209b43]
+2026-07-03 00:27:03.758 +00:00 [INF] Cache hit for 53a2ae68b4574445af6c4baeb147c95e (https://www.wenxuecity.com/data/newscomment/09ec76306ebfa982510fa57836d1fb24.webp).
+2026-07-03 00:27:03.762 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/09ec76306ebfa982510fa57836d1fb24.webp → 200 via cache in 0ms (1770B) [53a2ae68b4574445af6c4baeb147c95e]
+2026-07-03 00:27:03.772 +00:00 [INF] Cache hit for d0b0fa13e26044ad825dd4629bd51aae (https://www.wenxuecity.com/data/newscomment/e4f62c66f862a1f9170bcaf3632c2a92.webp).
+2026-07-03 00:27:03.775 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/e4f62c66f862a1f9170bcaf3632c2a92.webp → 200 via cache in 0ms (1066B) [d0b0fa13e26044ad825dd4629bd51aae]
+2026-07-03 00:27:03.784 +00:00 [INF] Cache hit for 48d665b772f443ceab8b272a4f6f96c1 (https://www.wenxuecity.com/data/newscomment/21ba539922486457193f67c05f947991.webp).
+2026-07-03 00:27:03.787 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/21ba539922486457193f67c05f947991.webp → 200 via cache in 0ms (1708B) [48d665b772f443ceab8b272a4f6f96c1]
+2026-07-03 00:27:03.795 +00:00 [INF] Cache hit for bdc230dc65054f43911e3eb601ad2326 (https://www.wenxuecity.com/data/newscomment/61465fa8d075439a9c4b10a7aee32200.webp).
+2026-07-03 00:27:03.798 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/61465fa8d075439a9c4b10a7aee32200.webp → 200 via cache in 0ms (1916B) [bdc230dc65054f43911e3eb601ad2326]
+2026-07-03 00:27:03.809 +00:00 [INF] Cache hit for a7fcd92a41ee47999a6b915376a3a12d (https://www.wenxuecity.com/data/newscomment/3a087a2bfc17f594b7326cca5f6e3864.webp).
+2026-07-03 00:27:03.811 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/3a087a2bfc17f594b7326cca5f6e3864.webp → 200 via cache in 0ms (1478B) [a7fcd92a41ee47999a6b915376a3a12d]
+2026-07-03 00:27:03.821 +00:00 [INF] Cache hit for 32f7d4f0723346a49e9d07fb4f34b01c (https://www.wenxuecity.com/data/newscomment/eeec623a17ef0fb169da9b1aefe95fa5.webp).
+2026-07-03 00:27:03.823 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/eeec623a17ef0fb169da9b1aefe95fa5.webp → 200 via cache in 0ms (3286B) [32f7d4f0723346a49e9d07fb4f34b01c]
+2026-07-03 00:27:03.832 +00:00 [INF] Cache hit for 25916aa87e144f36bde8ef2367be0262 (https://www.wenxuecity.com/data/newscomment/031a4ba8838a88444d5f8f2d5731915e.webp).
+2026-07-03 00:27:03.834 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/031a4ba8838a88444d5f8f2d5731915e.webp → 200 via cache in 0ms (1398B) [25916aa87e144f36bde8ef2367be0262]
+2026-07-03 00:27:03.844 +00:00 [INF] Cache hit for bbf67a552b3e470dbc093dc475996334 (https://www.wenxuecity.com/data/newscomment/f964fd3063edd79219894af3887dc1d1.webp).
+2026-07-03 00:27:03.847 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/f964fd3063edd79219894af3887dc1d1.webp → 200 via cache in 0ms (1308B) [bbf67a552b3e470dbc093dc475996334]
+2026-07-03 00:27:03.857 +00:00 [INF] Cache hit for c7e5bddbffba426a95634c9af1aaf904 (https://www.wenxuecity.com/data/newscomment/ab1949ebc17af7a1a37162e75ea61191.webp).
+2026-07-03 00:27:03.859 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/ab1949ebc17af7a1a37162e75ea61191.webp → 200 via cache in 0ms (1330B) [c7e5bddbffba426a95634c9af1aaf904]
+2026-07-03 00:27:03.870 +00:00 [INF] Cache hit for a701990f4f054689872f5734fceb271e (https://www.wenxuecity.com/data/newscomment/7bc2869d7c14d9d0029b026ca2c16c12.webp).
+2026-07-03 00:27:03.873 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/7bc2869d7c14d9d0029b026ca2c16c12.webp → 200 via cache in 0ms (1118B) [a701990f4f054689872f5734fceb271e]
+2026-07-03 00:27:03.895 +00:00 [INF] Cache hit for 007622a759bd41d0889a09ee1865ee30 (https://www.wenxuecity.com/data/newscomment/9fd17123b820f1c726e042d05986f1b6.webp).
+2026-07-03 00:27:03.898 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/9fd17123b820f1c726e042d05986f1b6.webp → 200 via cache in 0ms (1740B) [007622a759bd41d0889a09ee1865ee30]
+2026-07-03 00:27:03.906 +00:00 [INF] Cache hit for 0f2a7f3edb4b4bfaad4f20bb418398c0 (https://www.wenxuecity.com/data/newscomment/ea18cc4ae424c6f3304ee91819b8ee1a.webp).
+2026-07-03 00:27:03.911 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/ea18cc4ae424c6f3304ee91819b8ee1a.webp → 200 via cache in 0ms (1304B) [0f2a7f3edb4b4bfaad4f20bb418398c0]
+2026-07-03 00:27:03.922 +00:00 [INF] Cache hit for e7b4814dd0fd490fbb807acd40cd8b50 (https://www.wenxuecity.com/data/newscomment/5e779b2fb5a572382692cf9b0b9e7b7e.webp).
+2026-07-03 00:27:03.925 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/5e779b2fb5a572382692cf9b0b9e7b7e.webp → 200 via cache in 0ms (1142B) [e7b4814dd0fd490fbb807acd40cd8b50]
+2026-07-03 00:27:03.935 +00:00 [INF] Cache hit for cdc7d0b02dfa4fb3830feb62b9b83c38 (https://www.wenxuecity.com/data/newscomment/0990dce2d374d3dfec8200b546d906f7.webp).
+2026-07-03 00:27:03.938 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/0990dce2d374d3dfec8200b546d906f7.webp → 200 via cache in 0ms (1932B) [cdc7d0b02dfa4fb3830feb62b9b83c38]
+2026-07-03 00:27:03.950 +00:00 [INF] Cache hit for cebc2f1a637944928df468a68cc99f6e (https://www.wenxuecity.com/data/newscomment/96e30c69b3a03dfe296142b9e0e8e63e.webp).
+2026-07-03 00:27:03.953 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/96e30c69b3a03dfe296142b9e0e8e63e.webp → 200 via cache in 0ms (1682B) [cebc2f1a637944928df468a68cc99f6e]
+2026-07-03 00:27:03.967 +00:00 [INF] Cache hit for 0489cb2f9eff46dbbc6b8d5b74ba66b7 (https://www.wenxuecity.com/data/newscomment/878926229db4054d279b33a72be9348f.webp).
+2026-07-03 00:27:03.970 +00:00 [INF] Proxied GET https://www.wenxuecity.com/data/newscomment/878926229db4054d279b33a72be9348f.webp → 200 via cache in 0ms (1340B) [0489cb2f9eff46dbbc6b8d5b74ba66b7]
+2026-07-03 00:27:03.991 +00:00 [INF] Cache hit for 39ebfc9ab1404c38bfec1de5b95765d7 (https://html-load.cc/script/d3d3Lndlbnh1ZWNpdHkuY29t.js).
+2026-07-03 00:27:03.993 +00:00 [INF] Proxied GET https://html-load.cc/script/d3d3Lndlbnh1ZWNpdHkuY29t.js → 200 via cache in 1ms (473367B) [39ebfc9ab1404c38bfec1de5b95765d7]
+2026-07-03 00:27:04.046 +00:00 [INF] Cache hit for 80ce6375a9c648318cb8d3b79b1a68c8 (https://www.wenxuecity.com/images/btn_search.jpg).
+2026-07-03 00:27:04.049 +00:00 [INF] Proxied GET https://www.wenxuecity.com/images/btn_search.jpg → 200 via cache in 0ms (1906B) [80ce6375a9c648318cb8d3b79b1a68c8]
+2026-07-03 00:27:04.059 +00:00 [INF] Cache hit for 24c0875554af4ed3be37b01e4527b612 (https://www.wenxuecity.com/images/bbgra1.png).
+2026-07-03 00:27:04.061 +00:00 [INF] Proxied GET https://www.wenxuecity.com/images/bbgra1.png → 200 via cache in 0ms (54946B) [24c0875554af4ed3be37b01e4527b612]
+2026-07-03 00:27:04.073 +00:00 [INF] Cache hit for 7cc88c70f014492db14a1645e12160bf (https://www.wenxuecity.com/images/bbg2.webp).
+2026-07-03 00:27:04.076 +00:00 [INF] Proxied GET https://www.wenxuecity.com/images/bbg2.webp → 200 via cache in 0ms (13930B) [7cc88c70f014492db14a1645e12160bf]
+2026-07-03 00:27:04.085 +00:00 [INF] Cache hit for 1482a6cb621e481abb515ded06c89ce9 (https://www.wenxuecity.com/images/bg_menubar.gif).
+2026-07-03 00:27:04.087 +00:00 [INF] Proxied GET https://www.wenxuecity.com/images/bg_menubar.gif → 200 via cache in 0ms (73B) [1482a6cb621e481abb515ded06c89ce9]
+2026-07-03 00:27:04.099 +00:00 [INF] Cache hit for 204f5c7d86ff4479b781ab1e767c1e6c (https://www.wenxuecity.com/images/bg_mainmenu_selected.gif).
+2026-07-03 00:27:04.104 +00:00 [INF] Proxied GET https://www.wenxuecity.com/images/bg_mainmenu_selected.gif → 200 via cache in 0ms (927B) [204f5c7d86ff4479b781ab1e767c1e6c]
+2026-07-03 00:27:04.115 +00:00 [INF] Cache hit for 12d530a6cd884dd6b27d23a0bca406c1 (https://www.wenxuecity.com/images/micw.svg).
+2026-07-03 00:27:04.117 +00:00 [INF] Proxied GET https://www.wenxuecity.com/images/micw.svg → 200 via cache in 0ms (1696B) [12d530a6cd884dd6b27d23a0bca406c1]
+2026-07-03 00:27:04.170 +00:00 [INF] Proxied GET https://srvb1.com/px.gif?ch=***REDACTED***&rn=***REDACTED*** → 200 via http in 25ms (842B) [1ed55bcd79ae4ee3836f72d578329cbe]
+2026-07-03 00:27:04.232 +00:00 [INF] Proxied GET https://srvb1.com/px.gif?ch=***REDACTED***&rn=***REDACTED*** → 200 via http in 23ms (842B) [27995f654a9f4410900762e036976326]
+2026-07-03 00:27:04.316 +00:00 [INF] Proxied GET https://api.wenxuecity.com/members/script/members.php?unic=***REDACTED*** → 200 via http in 71ms (2330B) [4911511f69df46e0af4854bc8915ac67]
+2026-07-03 00:27:04.331 +00:00 [INF] Cache hit for 27150f6a323c4025a808b50cfe014589 (https://www.wenxuecity.com/news/js/recommendednews.js).
+2026-07-03 00:27:04.333 +00:00 [INF] Proxied GET https://www.wenxuecity.com/news/js/recommendednews.js → 200 via cache in 0ms (603B) [27150f6a323c4025a808b50cfe014589]
+2026-07-03 00:27:04.345 +00:00 [INF] Cache hit for ab63b7d9922b407ab74a58e6b4135320 (https://www.wenxuecity.com/js/wxcFunc.js).
+2026-07-03 00:27:04.349 +00:00 [INF] Proxied GET https://www.wenxuecity.com/js/wxcFunc.js → 200 via cache in 0ms (500B) [ab63b7d9922b407ab74a58e6b4135320]
+2026-07-03 00:27:04.365 +00:00 [INF] Cache hit for b8a3ff43dcab44dbaa7e90917b33ff1a (https://www.wenxuecity.com/news/js/view.js?v=05132024).
+2026-07-03 00:27:04.368 +00:00 [INF] Proxied GET https://www.wenxuecity.com/news/js/view.js?v=***REDACTED*** → 200 via cache in 0ms (1226B) [b8a3ff43dcab44dbaa7e90917b33ff1a]
+2026-07-03 00:27:04.451 +00:00 [INF] Proxied GET https://count.wenxuecity.com/service/count/script/do.php?type=***REDACTED***&id=***REDACTED***&n=***REDACTED***&out=***REDACTED*** → 200 via http in 72ms (89B) [dabc6da3c03c464b82757e4c07deb97f]
+2026-07-03 00:27:04.465 +00:00 [INF] Cache hit for 50d98dbaf3ab4480b63e0ca20a9ab26e (https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202606250101/pubads_impl.js).
+2026-07-03 00:27:04.468 +00:00 [INF] Proxied GET https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202606250101/pubads_impl.js → 200 via cache in 2ms (623876B) [50d98dbaf3ab4480b63e0ca20a9ab26e]
+2026-07-03 00:27:04.558 +00:00 [INF] Proxied GET https://securepubads.g.doubleclick.net/pagead/ppub_config?ippd=***REDACTED***&pppnc=***REDACTED*** → 200 via http in 34ms (1990B) [d8c4f076091246ee96b7bb8a3b7e0965]
+2026-07-03 00:27:04.630 +00:00 [INF] Proxied HEAD https://a.pub.network/core/imgs/1.png → 200 via http in 12ms (0B) [8ee0393f9f5e488d820a0fd4cd8dd03a]
+2026-07-03 00:27:04.740 +00:00 [INF] Proxied GET https://d.pub.network/v2/sites/wenxuecity-com/configs?env=***REDACTED*** → 200 via http in 28ms (200918B) [0c9deb87e065471ba56846864db3502c]
+2026-07-03 00:27:04.830 +00:00 [INF] Proxied POST https://www.wenxuecity.com/news/script/recommendednews.php?rec_arg_postid=***REDACTED*** → 200 via http in 72ms (11B) [2ad5b46de1ec4503984994f8850e99fe]
+2026-07-03 00:27:04.865 +00:00 [INF] Proxied GET https://srvb1.com/?uid=***REDACTED***&oab=***REDACTED*** → 200 via http in 23ms (732B) [5e2c263d77cd4ecb88e495140b300ee2]
+2026-07-03 00:27:04.877 +00:00 [INF] Cache hit for 2248a2055dc94a10857b932c0ec0627f (https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fwww.wenxuecity.com).
+2026-07-03 00:27:04.880 +00:00 [INF] Proxied GET https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=***REDACTED*** → 200 via cache in 1ms (327306B) [2248a2055dc94a10857b932c0ec0627f]
+2026-07-03 00:27:04.952 +00:00 [INF] Cache hit for 465b665f930241dfb6f80220088e7233 (https://a.pub.network/wenxuecity-com/fsdata.json).
+2026-07-03 00:27:04.958 +00:00 [INF] Proxied GET https://a.pub.network/wenxuecity-com/fsdata.json → 200 via cache in 1ms (177415B) [465b665f930241dfb6f80220088e7233]
+2026-07-03 00:27:04.985 +00:00 [INF] Cache hit for 583fe1f6474d46eaa97b57320f9ae011 (https://securepubads.g.doubleclick.net/pagead/managed/dict/m202606180101/gpt).
+2026-07-03 00:27:04.988 +00:00 [INF] Proxied GET https://securepubads.g.doubleclick.net/pagead/managed/dict/m202606180101/gpt → 200 via cache in 0ms (64887B) [583fe1f6474d46eaa97b57320f9ae011]
+2026-07-03 00:27:05.035 +00:00 [INF] Proxied GET https://srvb1.com/?uid=***REDACTED***&oab=***REDACTED***&puburl=***REDACTED***&sessId=***REDACTED*** → 200 via http in 23ms (480B) [1206402cca164a42be1d538dbae84b36]
+2026-07-03 00:27:05.085 +00:00 [INF] Proxied GET https://syndication.twitter.com/settings?session_id=***REDACTED*** → 200 via http in 33ms (869B) [b8d2388f93644c08b6119e7c971928d4]
+2026-07-03 00:27:05.107 +00:00 [INF] Cache hit for 4d149f6ceb3840179e086b082595d5e4 (https://static.srvb1.com/m.js).
+2026-07-03 00:27:05.110 +00:00 [INF] Proxied GET https://static.srvb1.com/m.js → 200 via cache in 0ms (8712B) [4d149f6ceb3840179e086b082595d5e4]
+2026-07-03 00:27:05.123 +00:00 [INF] Cache hit for eccbac252f34466486f55bdebf38a667 (https://platform.twitter.com/js/button.2276a045429f6681b56da5eb1dcfa53c.js).
+2026-07-03 00:27:05.127 +00:00 [INF] Proxied GET https://platform.twitter.com/js/button.2276a045429f6681b56da5eb1dcfa53c.js → 200 via cache in 0ms (7884B) [eccbac252f34466486f55bdebf38a667]
+2026-07-03 00:27:05.204 +00:00 [INF] Proxied GET https://platform.twitter.com/widgets/tweet_button.1227a5674072e080ffb1ba14ac0c1079.en.html → 200 via http in 10ms (34546B) [e0d869f0b80840d29901a9ddfeba218c]
+2026-07-03 00:27:05.267 +00:00 [INF] Proxied GET https://syndication.twitter.com/i/jot/embeds?l=***REDACTED***&session_id=***REDACTED*** → 200 via http in 35ms (43B) [2f917e6b148d4fcd97ea3aa7360215d6]

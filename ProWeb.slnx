@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ProWeb.Client.Core/ProWeb.Client.Core.csproj" />
+    <Project Path="src/ProWeb.Client/ProWeb.Client.csproj">
+      <Platform Project="x64" />
+    </Project>
+    <Project Path="src/ProWeb.Server/ProWeb.Server.csproj" />
+    <Project Path="src/ProWeb.Shared/ProWeb.Shared.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ProWeb.Client.Core.Tests/ProWeb.Client.Core.Tests.csproj" />
+    <Project Path="tests/ProWeb.Server.Tests/ProWeb.Server.Tests.csproj" />
+    <Project Path="tests/ProWeb.Shared.Tests/ProWeb.Shared.Tests.csproj" />
+  </Folder>
+</Solution>

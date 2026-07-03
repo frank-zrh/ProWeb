@@ -1,0 +1,51 @@
+root = true
+
+[*]
+charset = utf-8
+end_of_line = crlf
+insert_final_newline = true
+indent_style = space
+indent_size = 4
+trim_trailing_whitespace = true
+
+[*.{csproj,props,targets,json,xml}]
+indent_size = 2
+
+[*.cs]
+dotnet_sort_system_directives_first = true
+csharp_new_line_before_open_brace = all
+# Relax some StyleCop rules that add noise without value here
+dotnet_diagnostic.SA1101.severity = none   # prefix local with this.
+dotnet_diagnostic.SA1200.severity = none   # using directive placement
+dotnet_diagnostic.SA1309.severity = none   # field must not begin with underscore
+dotnet_diagnostic.SA1633.severity = none   # file header
+dotnet_diagnostic.SA1600.severity = none   # element documentation
+dotnet_diagnostic.SA1601.severity = none
+dotnet_diagnostic.SA1602.severity = none
+dotnet_diagnostic.SA0001.severity = none
+dotnet_diagnostic.SA1413.severity = none   # trailing comma
+dotnet_diagnostic.SA1503.severity = none   # braces required
+dotnet_diagnostic.SA1116.severity = none
+dotnet_diagnostic.SA1117.severity = none
+dotnet_diagnostic.SA1128.severity = none
+dotnet_diagnostic.SA1516.severity = none
+dotnet_diagnostic.SA1201.severity = none
+dotnet_diagnostic.SA1202.severity = none
+dotnet_diagnostic.SA1204.severity = none
+dotnet_diagnostic.SA1214.severity = none
+dotnet_diagnostic.SA1000.severity = none   # keyword spacing
+dotnet_diagnostic.SA1009.severity = none
+dotnet_diagnostic.SA1011.severity = none   # bracket spacing
+dotnet_diagnostic.SA1134.severity = none   # attributes on own line
+dotnet_diagnostic.SA1313.severity = none   # record positional param casing
+dotnet_diagnostic.SA1122.severity = none
+dotnet_diagnostic.SA1123.severity = none
+dotnet_diagnostic.SA1400.severity = none
+dotnet_diagnostic.SA1401.severity = none
+dotnet_diagnostic.SA1649.severity = none   # file name match
+dotnet_diagnostic.SA1652.severity = none
+dotnet_diagnostic.SA1515.severity = none
+dotnet_diagnostic.SA1512.severity = none
+dotnet_diagnostic.SA1513.severity = none
+dotnet_diagnostic.SA1502.severity = none
+dotnet_diagnostic.SA1128.severity = none
